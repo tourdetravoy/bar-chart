@@ -6,7 +6,7 @@ $(document).ready(function() {
   var HORIZONTAL = false;
 
 	// `false` for individual bars, `true` for stacked bars
-  var STACKED = false;  
+  var STACKED = true;  
   
   // Which column defines 'bucket' names?
   var LABELS = 'district';  

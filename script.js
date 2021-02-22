@@ -17,11 +17,13 @@ $(document).ready(function() {
       column: 'nonlearner',
       name: 'Non-Learners',
       color: 'grey'
+	stacked: true    
     },
     {
       column: 'learner',
       name: 'Learners',
       color: 'blue'
+	stacked: true    
     }
   ];
 
